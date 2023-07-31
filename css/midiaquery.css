@@ -1,0 +1,21 @@
+/* mobile view */
+@media(max-width:768px){
+ 
+    section .footer .row ul{
+        display: block;
+    }
+    section .main .serachbox .serach{
+        width: 75%;
+        margin-left: 12.5%;
+    }
+    section .main .serachbox .icons{
+        margin-left: 12.5%;
+        margin-right: 12.5%;
+        width: 75%;
+    }
+    section .main .googleimg{
+        width: 40%;
+        height: 40%;
+    }
+
+}
